@@ -28,13 +28,17 @@ class App(tk.Frame):
         self.quit = tk.Button(self,text="\nQUIT\n",fg="white",bg='red',activeforeground='red',activebackground='white',
                               command=exit,padx=20,pady=5)
         self.quit.pack(side='right')
-        self.Lcm = tk.Label(text ='units in cm , Use TAB to switch'); self.Lcm.pack(side='bottom')
+        self.Lcm = tk.Label(text ='units in cm , Use TAB to switch')
+        self.Lcm.pack(side='bottom')
 
-        self.Lf = tk.Label(text='Focal Length(f) : ',fg='white',bg='blue'); self.Lf.pack(side='left')
+        self.Lf = tk.Label(text='Focal Length(f) : ',fg='white',bg='blue')
+        self.Lf.pack(side='left')
         self.f = tk.Entry() ; self.f.pack(side='left')
-        self.Lh1 = tk.Label(text='  Object Height(h1) : ',fg='white',bg='red'); self.Lh1.pack(side='left')
+        self.Lh1 = tk.Label(text='  Object Height(h1) : ',fg='white',bg='red')
+        self.Lh1.pack(side='left')
         self.h1 = tk.Entry(); self.h1.pack(side='left')
-        self.Lu = tk.Label(text='  Object Distance(u) : ',fg='black',bg='yellow'); self.Lu.pack(side='left')
+        self.Lu = tk.Label(text='  Object Distance(u) : ',fg='black',bg='yellow')
+        self.Lu.pack(side='left')
         self.u = tk.Entry() ; self.u.pack(side = 'left')
         
     def simulater(self):
