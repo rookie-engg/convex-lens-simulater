@@ -25,8 +25,10 @@ class App(tk.Frame):
         self.simulate['activebackground']='orange'
         self.simulate.pack(side='left')
 
-        self.quit = tk.Button(self,text="\nQUIT\n",fg="white",bg='red',activeforeground='red',activebackground='white',
-                              command=exit,padx=20,pady=5)
+        self.quit = tk.Button(self,text="\nQUIT\n",fg="white",bg='red',
+            activeforeground='red',activebackground='white',
+            command=exit,padx=20,pady=5)
+            
         self.quit.pack(side='right')
         self.Lcm = tk.Label(text ='units in cm , Use TAB to switch')
         self.Lcm.pack(side='bottom')
