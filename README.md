@@ -7,5 +7,6 @@ It uses three basic rules for image formation
 1.  python3
 
 ## Steps to run
+1. clone the repo.
 1. Double click on the ```main.py``` file.
 2. If you want a demo double click on ```convex_lens_simulater.py```.
