@@ -1,0 +1,19 @@
+{
+  "name": "convex-lens-simulater",
+  "version": "1.0.0",
+  "description": "simulate light rays passing through convex lens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rookie-engg/convex-lens-simulater.git"
+  },
+  "author": "vishal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rookie-engg/convex-lens-simulater/issues"
+  },
+  "homepage": "https://github.com/rookie-engg/convex-lens-simulater#readme"
+}

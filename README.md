@@ -1,10 +1,10 @@
 # convex-lens-simulater
-  This program draws where the image will form when object height, object distance from
+This program draws where the image will form when object height, object distance from
 lense and convex lens focal length is provided, using python3, turtle and tkinter.
 It uses three basic rules for image formation
 
 ## Requirements
-1.  python3
+1. python3
 
 ## Steps to run
 1. clone the repo.
