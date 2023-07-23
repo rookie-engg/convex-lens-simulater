@@ -10,3 +10,7 @@ It uses three basic rules for image formation
 1. clone the repo.
 1. Double click on the ```main.py``` file.
 2. If you want a demo double click on ```convex_lens_simulater.py```.
+
+## Screenshot
+
+(screenshot)[https://raw.githubusercontent.com/rookie-engg/convex-lens-simulater/main/screenshot.gif]
