@@ -1,6 +1,7 @@
 # convex-lens-simulater
  Python program that simulates the behavior of a convex lens and allows users to draw the final image position of an object placed on the principal axis. The program utilizes pen up and down commands to create an interactive and visual representation of the lens simulation
 
+It aims to help studens of 8th grade to under stande the concent of lenes from there syllabus, they should get real time visual representation of the image formation. so they can also verify there answers" and ai should not detct that it is written by you
 ## Requirements
 1. python3
 
