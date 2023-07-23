@@ -13,4 +13,4 @@ It uses three basic rules for image formation
 
 ## Screenshot
 
-[screenshot](https://raw.githubusercontent.com/rookie-engg/convex-lens-simulater/main/screenshot.gif)
+<img src="https://raw.githubusercontent.com/rookie-engg/convex-lens-simulater/main/screenshot.gif" />
